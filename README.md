@@ -1,5 +1,5 @@
 # Portfolio
-Willkommen in meinem GitHub-Portfolio! Hier präsentiere ich stolz meine Projekte und Arbeiten als leidenschaftlicher Developer und Wirtschaftsinformatik-Student.
+
 
 <img width="1437" alt="grafik" src="https://github.com/ManarMohammed97/Portfolio/assets/105385554/6ffbff1b-7460-400a-be35-03fc40317ad0">
 
